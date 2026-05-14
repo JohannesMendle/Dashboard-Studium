@@ -1,0 +1,26 @@
+Voraussetzungen:
+- Anaconda oder andere Python-Distribution, um .py-Dateien ausführen zu können
+- Installierte Bibliotheken aus der requirements.txt
+- Empfohlenes Tool zum Bearbeiten, Individualisieren oder Lesen des Quellcodes: PyCharm
+
+Ablauf:
+1. Herunterladen der Inhalte des Repositories
+2. Entpacken der Daten im gleichen Ordner; der Code setzt voraus, dass sich die .csv-Datei im selben Verzeichnis wie die .py-Datei befindet
+3. Ausführen des Codes (z.B. im Anaconda-Prompt) mit den 2 folgenden Befehlen (ohne Anführungszeichen):
+a. Ins Verzeichnis navigieren mit „cd C:\UsersUsername\PyCharmMiscProject“ (hier entsprechend den lokalen Pfad angeben, in dem die .py- und die .csv-Datei liegen)
+b. Code ausführen mit „python dashboard_cyber_security.py“
+4. Die .csv-Datei enthält Beispieldaten; um das Dashboard individuell anzupassen, müssen die Daten direkt in der .csv-Datei geändert werden
+
+
+Prerequisites:
+- Anaconda or other python distribution to execute .py files
+- installed libraries from the requirements.txt
+- recommended tool to work on, individualize or read the code: PyCharm
+
+Procedure
+1. Download the contents of the repository
+2. Unpack the data to one directory; the code needs both the .csv as well as the .py file to be in the same directory
+3. Execute the code (e.g. with Anaconda prompt) with the 2 following prompts (no quotation marks):
+a. navigate to the directory with "cd C:\UsersUsername\PyCharmMiscProject" (insert local path where your .py as well as your .csv are saved)
+b. execute code with "python dashboard_cyber_security.py"
+4. the .csv file contains sample data. To personalize the dashboard, data has to be changed directly within the .csv file
